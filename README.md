@@ -29,4 +29,4 @@ Ever wanted to create your own super-powered quiz? This app lets you pick a subj
 - `main.py`: The "brain" of our app.
 - `static/index.html`: The "face" of our app that you see in the browser.
 
-Built with ❤️ by Startocode.
+Built with ❤️ by EMMANUELLA ASHILEVI
